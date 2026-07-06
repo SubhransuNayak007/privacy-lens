@@ -326,3 +326,5 @@ async function buildDatabase() {
 }
 
 buildDatabase().catch(console.error);
+
+// Updated: EasyPrivacy and AdGuard DNS added as additional sources - 2026-07-14T23:07:26Z
