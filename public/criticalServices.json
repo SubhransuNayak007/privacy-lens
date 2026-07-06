@@ -1,0 +1,32 @@
+{
+  "criticalServices": {
+    "accounts.google.com": {
+      "reason": "Google SSO",
+      "priority": 10
+    },
+    "appleid.apple.com": {
+      "reason": "Apple SSO",
+      "priority": 10
+    },
+    "github.com": {
+      "reason": "GitHub SSO",
+      "priority": 10
+    },
+    "cdn.jsdelivr.net": {
+      "reason": "JSDelivr CDN",
+      "priority": 10
+    },
+    "cdnjs.cloudflare.com": {
+      "reason": "Cloudflare CDN",
+      "priority": 10
+    },
+    "fonts.googleapis.com": {
+      "reason": "Google Fonts CSS",
+      "priority": 10
+    },
+    "fonts.gstatic.com": {
+      "reason": "Google Fonts assets",
+      "priority": 10
+    }
+  }
+}
