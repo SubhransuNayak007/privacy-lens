@@ -318,3 +318,5 @@ class BlockEngine {
 }
 
 export const blockEngine = new BlockEngine();
+
+// V4: domainType thirdParty enforcement — only blocks cross-site requests
