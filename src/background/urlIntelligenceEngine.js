@@ -444,3 +444,5 @@ export function isPixelBeacon(url, contentType, contentLength) {
   if (contentLength !== null && contentLength > 500) return false;
   return computeURLTrackerScore(url) >= 0.20;
 }
+
+// V4: UTM and tracking param stripper via declarativeNetRequest redirect rules
