@@ -1,0 +1,3540 @@
+{
+  "metadata": {
+    "version": "2026.07.13",
+    "generatedAt": "2026-07-13T08:44:42.227Z",
+    "sources": [
+      "URLhaus (abuse.ch)"
+    ],
+    "threatCount": 504
+  },
+  "threats": {
+    "0022a601.pphost.net": {
+      "domain": "0022a601.pphost.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "123.ywxww.net": {
+      "domain": "123.ywxww.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "1717.1000uc.com": {
+      "domain": "1717.1000uc.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "1qvrznky.runtimebeacon.top": {
+      "domain": "1qvrznky.runtimebeacon.top",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "5jsdebh3.backgammon.download": {
+      "domain": "5jsdebh3.backgammon.download",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "5r48e4d3.betturkey.bet": {
+      "domain": "5r48e4d3.betturkey.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "81ro1qyb.radioshartbandi.bet": {
+      "domain": "81ro1qyb.radioshartbandi.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "9h5e0vbd.jadoou.club": {
+      "domain": "9h5e0vbd.jadoou.club",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "a9lrz6z9.betturkey.bet": {
+      "domain": "a9lrz6z9.betturkey.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "abdulahad.net": {
+      "domain": "abdulahad.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "acc.jiangsujiaxue.com": {
+      "domain": "acc.jiangsujiaxue.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "acms.saleseos.com": {
+      "domain": "acms.saleseos.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "acthktpb.betropol.bet": {
+      "domain": "acthktpb.betropol.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "acthwqwn.behtarin-site-shartbandi.com": {
+      "domain": "acthwqwn.behtarin-site-shartbandi.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.225Z"
+    },
+    "adewbrfg.bet90forward.win": {
+      "domain": "adewbrfg.bet90forward.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "admin.byte.in.ua": {
+      "domain": "admin.byte.in.ua",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "admin.gestroom.it": {
+      "domain": "admin.gestroom.it",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "aftelecom.com.br": {
+      "domain": "aftelecom.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "airyvineic.help": {
+      "domain": "airyvineic.help",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "akvz.behtarin-site-shartbandi.com": {
+      "domain": "akvz.behtarin-site-shartbandi.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "alarmline.com.br": {
+      "domain": "alarmline.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "alineeleuterio.com.br": {
+      "domain": "alineeleuterio.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "allendostmen.com": {
+      "domain": "allendostmen.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ap9nqrjc.jadoou.christmas": {
+      "domain": "ap9nqrjc.jadoou.christmas",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "app.appzcvb.com": {
+      "domain": "app.appzcvb.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "arcanemods.top": {
+      "domain": "arcanemods.top",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "archivoscrosoft.com": {
+      "domain": "archivoscrosoft.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "areyouready.co.za": {
+      "domain": "areyouready.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "atasapka.com.tr": {
+      "domain": "atasapka.com.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "atom.freehosting.dev": {
+      "domain": "atom.freehosting.dev",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "audicontadores.com": {
+      "domain": "audicontadores.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "aujh.jadoobet.blog": {
+      "domain": "aujh.jadoobet.blog",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "azffnyvq.zaribbala.bet": {
+      "domain": "azffnyvq.zaribbala.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "backupso.com": {
+      "domain": "backupso.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "balconyresidences.com.br": {
+      "domain": "balconyresidences.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "basegrid.cfd": {
+      "domain": "basegrid.cfd",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "beoauto.alexion.rs": {
+      "domain": "beoauto.alexion.rs",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bito.com.pk": {
+      "domain": "bito.com.pk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bjmd.bahsegel90.com": {
+      "domain": "bjmd.bahsegel90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "blessdayservices.org": {
+      "domain": "blessdayservices.org",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "blogs.sokun.jp": {
+      "domain": "blogs.sokun.jp",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bmdcompany.com": {
+      "domain": "bmdcompany.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bnet-api.playm8ru.win": {
+      "domain": "bnet-api.playm8ru.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bnet.playm8ru.win": {
+      "domain": "bnet.playm8ru.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bombayonline.in": {
+      "domain": "bombayonline.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "book.rollingvideogames.com": {
+      "domain": "book.rollingvideogames.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bqvojtsj.betgar.bet": {
+      "domain": "bqvojtsj.betgar.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bridgeroad.maverickpreviews.com": {
+      "domain": "bridgeroad.maverickpreviews.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "brightworks.cz": {
+      "domain": "brightworks.cz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "bvaco.com": {
+      "domain": "bvaco.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cambodiatouristservice.com": {
+      "domain": "cambodiatouristservice.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cat.dashabi.in": {
+      "domain": "cat.dashabi.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cat.xiaojiji.nl": {
+      "domain": "cat.xiaojiji.nl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cat.xiaoshabi.nl": {
+      "domain": "cat.xiaoshabi.nl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "catbaparadisehotel.com.vn": {
+      "domain": "catbaparadisehotel.com.vn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cbsnews.date": {
+      "domain": "cbsnews.date",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cdaonline.com.ar": {
+      "domain": "cdaonline.com.ar",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cdba.bet90forward.win": {
+      "domain": "cdba.bet90forward.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cdn.file6.goodid.com": {
+      "domain": "cdn.file6.goodid.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "celebratingseniors.net": {
+      "domain": "celebratingseniors.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "chat-server.maverickpreviews.com": {
+      "domain": "chat-server.maverickpreviews.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "checkfivem.com": {
+      "domain": "checkfivem.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "chinaapper.com": {
+      "domain": "chinaapper.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "chiptune.com": {
+      "domain": "chiptune.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "christophercheung.com": {
+      "domain": "christophercheung.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "chuguadventures.co.tz": {
+      "domain": "chuguadventures.co.tz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cl.ssouy.com": {
+      "domain": "cl.ssouy.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cloud.pearlpeel.com": {
+      "domain": "cloud.pearlpeel.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "clubdetiroelpicarcho.com": {
+      "domain": "clubdetiroelpicarcho.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cn.unionlever.com": {
+      "domain": "cn.unionlever.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "co-emas.com": {
+      "domain": "co-emas.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "compuserviceonline.com.br": {
+      "domain": "compuserviceonline.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "continentalgroup.net.in": {
+      "domain": "continentalgroup.net.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "coralasargetia.ro": {
+      "domain": "coralasargetia.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "corporacioncrf.com": {
+      "domain": "corporacioncrf.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cpofficial.com": {
+      "domain": "cpofficial.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cppqqgxg.betlivo90.bet": {
+      "domain": "cppqqgxg.betlivo90.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "creativevoltage.com": {
+      "domain": "creativevoltage.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "crimefreesoftware.com": {
+      "domain": "crimefreesoftware.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "crypter.howto.rocks": {
+      "domain": "crypter.howto.rocks",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "crystalpvp.ru": {
+      "domain": "crystalpvp.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "cs.go.kg": {
+      "domain": "cs.go.kg",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "csg-app.com": {
+      "domain": "csg-app.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "d.14yaa.com": {
+      "domain": "d.14yaa.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "d.wanyouxi7.com": {
+      "domain": "d.wanyouxi7.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "damiancollier.com": {
+      "domain": "damiancollier.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "data.yhydl.com": {
+      "domain": "data.yhydl.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dcrun.co.uk": {
+      "domain": "dcrun.co.uk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dcwblida.dz": {
+      "domain": "dcwblida.dz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "deagroup-ks.com": {
+      "domain": "deagroup-ks.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "delp-heizungsbau.de": {
+      "domain": "delp-heizungsbau.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dexios.co.za": {
+      "domain": "dexios.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dezcom.com": {
+      "domain": "dezcom.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "disk.accord1key.cn": {
+      "domain": "disk.accord1key.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "divvanews.com": {
+      "domain": "divvanews.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dl.1003b.56a.com": {
+      "domain": "dl.1003b.56a.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dl.dzqzd.com": {
+      "domain": "dl.dzqzd.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dl.natgo.cn": {
+      "domain": "dl.natgo.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "doc.e-statements.app": {
+      "domain": "doc.e-statements.app",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "donkeytourscroatia.com": {
+      "domain": "donkeytourscroatia.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "down.fwqlt.com": {
+      "domain": "down.fwqlt.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "down.pcclear.com": {
+      "domain": "down.pcclear.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "down.qqfarmer.com.cn": {
+      "domain": "down.qqfarmer.com.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.caihong.com": {
+      "domain": "download.caihong.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.doumaibiji.cn": {
+      "domain": "download.doumaibiji.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.haozip.com": {
+      "domain": "download.haozip.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.kaobeitu.com": {
+      "domain": "download.kaobeitu.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.pdf00.cn": {
+      "domain": "download.pdf00.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.pdf00.com": {
+      "domain": "download.pdf00.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "download.suxiazai.com": {
+      "domain": "download.suxiazai.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dowonline.ru": {
+      "domain": "dowonline.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dozco.com": {
+      "domain": "dozco.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dreamapp.xyz": {
+      "domain": "dreamapp.xyz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dreamwatchevent.com": {
+      "domain": "dreamwatchevent.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dudqylyo.jadoou.art": {
+      "domain": "dudqylyo.jadoou.art",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dusttv.com": {
+      "domain": "dusttv.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "dynga.pl": {
+      "domain": "dynga.pl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "easybrand.vn": {
+      "domain": "easybrand.vn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "eikgcqyt.onjabet1.com": {
+      "domain": "eikgcqyt.onjabet1.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "eksq11dg.dancebet90.app": {
+      "domain": "eksq11dg.dancebet90.app",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "elaml4maids.com": {
+      "domain": "elaml4maids.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "electri.billregulator.com": {
+      "domain": "electri.billregulator.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "elisans.novayonetim.com": {
+      "domain": "elisans.novayonetim.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "elng.jadoou.baby": {
+      "domain": "elng.jadoou.baby",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "embedone.com": {
+      "domain": "embedone.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "en.taichuan.com": {
+      "domain": "en.taichuan.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "epanpano.com": {
+      "domain": "epanpano.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "estudio.ythan.com.br": {
+      "domain": "estudio.ythan.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "etoncwgd.behtarin-site-shartbandi-football.com": {
+      "domain": "etoncwgd.behtarin-site-shartbandi-football.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "evangroup.ru": {
+      "domain": "evangroup.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "exptersed.com": {
+      "domain": "exptersed.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fakers.co.jp": {
+      "domain": "fakers.co.jp",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "farschid.de": {
+      "domain": "farschid.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fd.v2downf.shop": {
+      "domain": "fd.v2downf.shop",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fdmyrhjq.jadoobet.vip": {
+      "domain": "fdmyrhjq.jadoobet.vip",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fesold.com": {
+      "domain": "fesold.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fggcvmnq.jadoobet.forum": {
+      "domain": "fggcvmnq.jadoobet.forum",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fhqc.backgammon.download": {
+      "domain": "fhqc.backgammon.download",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fibvhxte.bekabet.casino": {
+      "domain": "fibvhxte.bekabet.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "file.blackint3.com": {
+      "domain": "file.blackint3.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "filerit.com": {
+      "domain": "filerit.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "files-storage.su": {
+      "domain": "files-storage.su",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "first-security-verden.de": {
+      "domain": "first-security-verden.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "flyingmutts.com": {
+      "domain": "flyingmutts.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fmrio.com": {
+      "domain": "fmrio.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fnrok367.jadoobet.blog": {
+      "domain": "fnrok367.jadoobet.blog",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fock.bekabet.casino": {
+      "domain": "fock.bekabet.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fphhkiyz.betforward.download": {
+      "domain": "fphhkiyz.betforward.download",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fukt.link": {
+      "domain": "fukt.link",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "furystaff.tech": {
+      "domain": "furystaff.tech",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fz.tiansys.cn": {
+      "domain": "fz.tiansys.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "fzneds6a.betropol.bet": {
+      "domain": "fzneds6a.betropol.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gabyagozetim.com": {
+      "domain": "gabyagozetim.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "galerisenimutiara.com": {
+      "domain": "galerisenimutiara.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gboutros.howto.rocks": {
+      "domain": "gboutros.howto.rocks",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "genddos.st": {
+      "domain": "genddos.st",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "genesis-softs.com": {
+      "domain": "genesis-softs.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gestionycobranzas.com": {
+      "domain": "gestionycobranzas.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gglosnig.betewin.poker": {
+      "domain": "gglosnig.betewin.poker",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ggnytlvj.betnef.bet": {
+      "domain": "ggnytlvj.betnef.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "globalbank.us": {
+      "domain": "globalbank.us",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gogolfonline.com": {
+      "domain": "gogolfonline.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "goldland8.com": {
+      "domain": "goldland8.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gpukjn7z.betraca.bet": {
+      "domain": "gpukjn7z.betraca.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "grantexx.com": {
+      "domain": "grantexx.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "greenf.alexion.rs": {
+      "domain": "greenf.alexion.rs",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "grupomcperu.com": {
+      "domain": "grupomcperu.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gsx.life": {
+      "domain": "gsx.life",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gtcymxsv.onjabet1.com": {
+      "domain": "gtcymxsv.onjabet1.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "gutando.com": {
+      "domain": "gutando.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "h81b1ag4.code-hediye-1xbet.com": {
+      "domain": "h81b1ag4.code-hediye-1xbet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hasalltalent.com": {
+      "domain": "hasalltalent.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hdqzc.casinomhub.bet": {
+      "domain": "hdqzc.casinomhub.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hitman-pro.ru": {
+      "domain": "hitman-pro.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hitstation.nl": {
+      "domain": "hitstation.nl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hksv.bahigo90bet.com": {
+      "domain": "hksv.bahigo90bet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hlhmjajy.onjabet1.com": {
+      "domain": "hlhmjajy.onjabet1.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hlme.bet90forward.app": {
+      "domain": "hlme.bet90forward.app",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hobobot.net": {
+      "domain": "hobobot.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "hseda.com": {
+      "domain": "hseda.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "i-like-ele-phants-verification.live": {
+      "domain": "i-like-ele-phants-verification.live",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ichnwcqh.jadoobet.live": {
+      "domain": "ichnwcqh.jadoobet.live",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "icoffeecloud.com": {
+      "domain": "icoffeecloud.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ifpzjway.betebet.poker": {
+      "domain": "ifpzjway.betebet.poker",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "igjp.backgammon.download": {
+      "domain": "igjp.backgammon.download",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "igra123.com": {
+      "domain": "igra123.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ircftp.net": {
+      "domain": "ircftp.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "isiore.com.co": {
+      "domain": "isiore.com.co",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "itssprout.com": {
+      "domain": "itssprout.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "iwyx.bekabet.casino": {
+      "domain": "iwyx.bekabet.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jawaratekno.com": {
+      "domain": "jawaratekno.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jbiyqacd.bcgame.shop": {
+      "domain": "jbiyqacd.bcgame.shop",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jbqh.betaverse.casino": {
+      "domain": "jbqh.betaverse.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jcttadgn.betlivo90.bet": {
+      "domain": "jcttadgn.betlivo90.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jenniferloeffler.com": {
+      "domain": "jenniferloeffler.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jessespridecharters.com": {
+      "domain": "jessespridecharters.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jidm.jadoobet.pro": {
+      "domain": "jidm.jadoobet.pro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jkvw.jadoobet.live": {
+      "domain": "jkvw.jadoobet.live",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jlwz.cn": {
+      "domain": "jlwz.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jnjv.bahigo90bet.com": {
+      "domain": "jnjv.bahigo90bet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "joyeriatauro.com": {
+      "domain": "joyeriatauro.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "js.byxly.eu.cc": {
+      "domain": "js.byxly.eu.cc",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jxiluxhf.radioshartbandi.chat": {
+      "domain": "jxiluxhf.radioshartbandi.chat",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "jyothishmathi.in": {
+      "domain": "jyothishmathi.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kaleda.pro": {
+      "domain": "kaleda.pro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kavacanada.ca": {
+      "domain": "kavacanada.ca",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kenwillzltd.com": {
+      "domain": "kenwillzltd.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "khoancatbetong89.vn": {
+      "domain": "khoancatbetong89.vn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kimyen.net": {
+      "domain": "kimyen.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kits.frog.tw": {
+      "domain": "kits.frog.tw",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kokkpxut.jadoobet.vip": {
+      "domain": "kokkpxut.jadoobet.vip",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kokorostore.it": {
+      "domain": "kokorostore.it",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "konsor.ru": {
+      "domain": "konsor.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "kyqwfrjr.betturkey.bet": {
+      "domain": "kyqwfrjr.betturkey.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "landonirwin.com": {
+      "domain": "landonirwin.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lawfirm.paperbirdtech.com": {
+      "domain": "lawfirm.paperbirdtech.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lb.nigsv.com": {
+      "domain": "lb.nigsv.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "leconto.lol": {
+      "domain": "leconto.lol",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "libss.0x504.com": {
+      "domain": "libss.0x504.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lindnerelektroanlagen.de": {
+      "domain": "lindnerelektroanlagen.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ljqk.bahigo.casino": {
+      "domain": "ljqk.bahigo.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "llar.jadoou.boats": {
+      "domain": "llar.jadoou.boats",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "llgdqtat.betpublic.casino": {
+      "domain": "llgdqtat.betpublic.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lmhk.bahigo.casino": {
+      "domain": "lmhk.bahigo.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "local-update.com": {
+      "domain": "local-update.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lokb.bekabet.casino": {
+      "domain": "lokb.bekabet.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lomejordesalamanca.es": {
+      "domain": "lomejordesalamanca.es",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lpzi.behtarin-site-shartbandi.com": {
+      "domain": "lpzi.behtarin-site-shartbandi.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lskz.bettilt90.com": {
+      "domain": "lskz.bettilt90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ltvz.jadoou.biz": {
+      "domain": "ltvz.jadoou.biz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "luizmatoso.com.br": {
+      "domain": "luizmatoso.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "lwqeujgc.jadoobet.xyz": {
+      "domain": "lwqeujgc.jadoobet.xyz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "m.jkoa.co.kr": {
+      "domain": "m.jkoa.co.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "m.meta-dm.com": {
+      "domain": "m.meta-dm.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "maidforyou1985.com": {
+      "domain": "maidforyou1985.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mdzt.behtarin-site-shartbandi-football.bet": {
+      "domain": "mdzt.behtarin-site-shartbandi-football.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "meetvideogoogle.com": {
+      "domain": "meetvideogoogle.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "metrics.gocloudmaps.com": {
+      "domain": "metrics.gocloudmaps.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mfej25tu.jadoou.cyou": {
+      "domain": "mfej25tu.jadoou.cyou",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "micfybfh.jadoobet.ink": {
+      "domain": "micfybfh.jadoobet.ink",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mitreart.com": {
+      "domain": "mitreart.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mjbpgp3k.jadoou.cfd": {
+      "domain": "mjbpgp3k.jadoou.cfd",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mogimall.com": {
+      "domain": "mogimall.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mosselnet.co.za": {
+      "domain": "mosselnet.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "muaklekcoop.com": {
+      "domain": "muaklekcoop.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "muledo.com": {
+      "domain": "muledo.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mundocarnes.cl": {
+      "domain": "mundocarnes.cl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mvd-2026.ru": {
+      "domain": "mvd-2026.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mx9x.com": {
+      "domain": "mx9x.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "mypwk0n2.jadoou.click": {
+      "domain": "mypwk0n2.jadoou.click",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "n.vs108.com": {
+      "domain": "n.vs108.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ncxps.com": {
+      "domain": "ncxps.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nightmare-download.pw": {
+      "domain": "nightmare-download.pw",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nisosznd.jadoobet.club": {
+      "domain": "nisosznd.jadoobet.club",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "noithaticon.vn": {
+      "domain": "noithaticon.vn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nsuoqcej.betturkey.bet": {
+      "domain": "nsuoqcej.betturkey.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nusatoyota.co.id": {
+      "domain": "nusatoyota.co.id",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nwhygnbt.behtarin-site-shartbandi.com": {
+      "domain": "nwhygnbt.behtarin-site-shartbandi.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "nxiyquas.behtarin-site-shartbandi-football.bet": {
+      "domain": "nxiyquas.behtarin-site-shartbandi-football.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ny.lshdw.cc": {
+      "domain": "ny.lshdw.cc",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "o24o.ru": {
+      "domain": "o24o.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "o82lzdzb.networkatlas.top": {
+      "domain": "o82lzdzb.networkatlas.top",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ocglemkm.betraca.bet": {
+      "domain": "ocglemkm.betraca.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ojang.pe.kr": {
+      "domain": "ojang.pe.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "okhan.net": {
+      "domain": "okhan.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "oknoplastik.sk": {
+      "domain": "oknoplastik.sk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "olptz5o4.jadoou.beauty": {
+      "domain": "olptz5o4.jadoou.beauty",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "omwf.jadoou.art": {
+      "domain": "omwf.jadoou.art",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "onfiltre.com.tr": {
+      "domain": "onfiltre.com.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "orjrdtyn.site-shartbandi-khareji.com": {
+      "domain": "orjrdtyn.site-shartbandi-khareji.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "osgeorhf.bekabet.casino": {
+      "domain": "osgeorhf.bekabet.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "owhzzucu.jadoou.cyou": {
+      "domain": "owhzzucu.jadoou.cyou",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "oxlg.betraca.bet": {
+      "domain": "oxlg.betraca.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "p3.zbjimg.com": {
+      "domain": "p3.zbjimg.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "palharesinformatica.com.br": {
+      "domain": "palharesinformatica.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "partytimedjsohio.com": {
+      "domain": "partytimedjsohio.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pay.aqiu6.com": {
+      "domain": "pay.aqiu6.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pbdb.bet303.site": {
+      "domain": "pbdb.bet303.site",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pcupd.com": {
+      "domain": "pcupd.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "peachcity.si": {
+      "domain": "peachcity.si",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "peiry.casinomilyon.bet": {
+      "domain": "peiry.casinomilyon.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "peniclean.com": {
+      "domain": "peniclean.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "planetariumobil.ro": {
+      "domain": "planetariumobil.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "plasteredplayn.com": {
+      "domain": "plasteredplayn.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "plzm.onjabet1.com": {
+      "domain": "plzm.onjabet1.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pmhy.gorgbet.net": {
+      "domain": "pmhy.gorgbet.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pns.org.pk": {
+      "domain": "pns.org.pk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pocopaco.co.za": {
+      "domain": "pocopaco.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "postelnini.mk": {
+      "domain": "postelnini.mk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pqyajjta.betgar.bet": {
+      "domain": "pqyajjta.betgar.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "preciosasjoyitas.com.mx": {
+      "domain": "preciosasjoyitas.com.mx",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pritinder.ifree.page": {
+      "domain": "pritinder.ifree.page",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "prre.behtarin-site-shartbandi-football.com": {
+      "domain": "prre.behtarin-site-shartbandi-football.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "public.demo.securecloudsandbox.com": {
+      "domain": "public.demo.securecloudsandbox.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "puqrhdze.onjabet1.com": {
+      "domain": "puqrhdze.onjabet1.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "purmed.ro": {
+      "domain": "purmed.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pvsa.gxfugy.cn": {
+      "domain": "pvsa.gxfugy.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "py01df9v.bettilt90.com": {
+      "domain": "py01df9v.bettilt90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "pyrd.radioshartbandi.bet": {
+      "domain": "pyrd.radioshartbandi.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "q0oocq7q.basari90bet.com": {
+      "domain": "q0oocq7q.basari90bet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qcarxtrl.betcool90.com": {
+      "domain": "qcarxtrl.betcool90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qcilezmw.jadoobet.club": {
+      "domain": "qcilezmw.jadoobet.club",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qfgzzlba.bet90forward.win": {
+      "domain": "qfgzzlba.bet90forward.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qfjwyksn.jadoobet.info": {
+      "domain": "qfjwyksn.jadoobet.info",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qiniuyunxz.yxflzs.com": {
+      "domain": "qiniuyunxz.yxflzs.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qqjbcfkl.fileboroo.com": {
+      "domain": "qqjbcfkl.fileboroo.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qs268cl5.radioshartbandi.bet": {
+      "domain": "qs268cl5.radioshartbandi.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qv.co.ke": {
+      "domain": "qv.co.ke",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "qzl7oi7a.zaribbala.bet": {
+      "domain": "qzl7oi7a.zaribbala.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ramirex.ro": {
+      "domain": "ramirex.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rddj.jadoou.boats": {
+      "domain": "rddj.jadoou.boats",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rdm.91yunma.cn": {
+      "domain": "rdm.91yunma.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "reauthenticator.com": {
+      "domain": "reauthenticator.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "records.dennisign.se": {
+      "domain": "records.dennisign.se",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "redlk.com": {
+      "domain": "redlk.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "refaccionesalma.com.mx": {
+      "domain": "refaccionesalma.com.mx",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "reifenquick.de": {
+      "domain": "reifenquick.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "reutilizemais.co.mz": {
+      "domain": "reutilizemais.co.mz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rgklgdmw.jadoobet.click": {
+      "domain": "rgklgdmw.jadoobet.click",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rheddh.com": {
+      "domain": "rheddh.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "riderspin.com": {
+      "domain": "riderspin.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ringmycellphone.com": {
+      "domain": "ringmycellphone.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rnjaeyqy.jadoobet.info": {
+      "domain": "rnjaeyqy.jadoobet.info",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "robertrowe.com": {
+      "domain": "robertrowe.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "roland.uscourt.online": {
+      "domain": "roland.uscourt.online",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "royalindiancurryclub.com": {
+      "domain": "royalindiancurryclub.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rufrzzcs.betpublic.casino": {
+      "domain": "rufrzzcs.betpublic.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ruuupkia.jadoobet.pro": {
+      "domain": "ruuupkia.jadoobet.pro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "rxquickpay.com": {
+      "domain": "rxquickpay.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ryo.gamer.free": {
+      "domain": "ryo.gamer.free",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "s7rpvlti.bahigo.casino": {
+      "domain": "s7rpvlti.bahigo.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sablayan.seasonshotelmindoro.com": {
+      "domain": "sablayan.seasonshotelmindoro.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "samiksha.com.sg": {
+      "domain": "samiksha.com.sg",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sc.c1s.su": {
+      "domain": "sc.c1s.su",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "scainseto.com.br": {
+      "domain": "scainseto.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "scanbot.me": {
+      "domain": "scanbot.me",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "scoala1gherla.ro": {
+      "domain": "scoala1gherla.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sec.dashabi.in": {
+      "domain": "sec.dashabi.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sec.xiaojiji.nl": {
+      "domain": "sec.xiaojiji.nl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sec.xiaoshabi.nl": {
+      "domain": "sec.xiaoshabi.nl",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "seismophonic.com": {
+      "domain": "seismophonic.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "semencepourlavie.org": {
+      "domain": "semencepourlavie.org",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "separadordecc.com": {
+      "domain": "separadordecc.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sg123.net": {
+      "domain": "sg123.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sh6ze53a.bet90forward.win": {
+      "domain": "sh6ze53a.bet90forward.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "shop.mediasova.ru": {
+      "domain": "shop.mediasova.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "shqdown.ggzuhao.com": {
+      "domain": "shqdown.ggzuhao.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sidnxgci.radioshartbandi.bet": {
+      "domain": "sidnxgci.radioshartbandi.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "siggroyu.store": {
+      "domain": "siggroyu.store",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sjzcjaqs.jadoou.bond": {
+      "domain": "sjzcjaqs.jadoou.bond",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sk-comtel.com": {
+      "domain": "sk-comtel.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "skgm.bahsegel90.com": {
+      "domain": "skgm.bahsegel90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "smartermail.host": {
+      "domain": "smartermail.host",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "snvd.jadoobet.ink": {
+      "domain": "snvd.jadoobet.ink",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "soft.110route.com": {
+      "domain": "soft.110route.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "softcatalog.ru": {
+      "domain": "softcatalog.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "solar-sanat.net": {
+      "domain": "solar-sanat.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "spgint.com": {
+      "domain": "spgint.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "static.ilclock.com": {
+      "domain": "static.ilclock.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "static.topxgun.com": {
+      "domain": "static.topxgun.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "static.youdm.cn": {
+      "domain": "static.youdm.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "stdcamtp.behtarin-site-shartbandi-football.bet": {
+      "domain": "stdcamtp.behtarin-site-shartbandi-football.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "stdown.dinju.com": {
+      "domain": "stdown.dinju.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "steam66.cn": {
+      "domain": "steam66.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "stonecradle.com": {
+      "domain": "stonecradle.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "streammobs.com": {
+      "domain": "streammobs.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sunix-technology.com": {
+      "domain": "sunix-technology.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "support.clz.kr": {
+      "domain": "support.clz.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sutterpoint.com": {
+      "domain": "sutterpoint.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "svirtual.sanviatorperu.edu.pe": {
+      "domain": "svirtual.sanviatorperu.edu.pe",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "sydneyaffordablecremations.com.au": {
+      "domain": "sydneyaffordablecremations.com.au",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "syqi.bahigo.casino": {
+      "domain": "syqi.bahigo.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "talentrecruitments.com": {
+      "domain": "talentrecruitments.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tanscarattorneys.co.tz": {
+      "domain": "tanscarattorneys.co.tz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tapestryoftruth.com": {
+      "domain": "tapestryoftruth.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "taxassessment.cyou": {
+      "domain": "taxassessment.cyou",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tcxc.behtarin-site-shartbandi.com": {
+      "domain": "tcxc.behtarin-site-shartbandi.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tecunonline.com": {
+      "domain": "tecunonline.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tehnomag.rs": {
+      "domain": "tehnomag.rs",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "temirtau-adm.ru": {
+      "domain": "temirtau-adm.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tengfeidn.cn": {
+      "domain": "tengfeidn.cn",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "teoz.radioshartbandi.casino": {
+      "domain": "teoz.radioshartbandi.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "test.peperoncinochepassione.it": {
+      "domain": "test.peperoncinochepassione.it",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tetz.site-shartbandi-khareji.com": {
+      "domain": "tetz.site-shartbandi-khareji.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tgjg.jadoou.autos": {
+      "domain": "tgjg.jadoou.autos",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tglc.bahsegel90.com": {
+      "domain": "tglc.bahsegel90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "theholidayroads.com": {
+      "domain": "theholidayroads.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "thementordirectory.com": {
+      "domain": "thementordirectory.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "theoremaoliveoil.com": {
+      "domain": "theoremaoliveoil.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "thtp2.volamngayxua.net": {
+      "domain": "thtp2.volamngayxua.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tiacreation.club": {
+      "domain": "tiacreation.club",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tjsojdll.betropol.bet": {
+      "domain": "tjsojdll.betropol.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tl9afxug.bahsegel90.com": {
+      "domain": "tl9afxug.bahsegel90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tniukh64.bitbet.download": {
+      "domain": "tniukh64.bitbet.download",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "toolshare.com.tr": {
+      "domain": "toolshare.com.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "top8onlinegame.com": {
+      "domain": "top8onlinegame.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "transparenciacanaa.com.br": {
+      "domain": "transparenciacanaa.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "trtmyanmar.com": {
+      "domain": "trtmyanmar.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tuasesoriadigital.es": {
+      "domain": "tuasesoriadigital.es",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tuvu.bet404.game": {
+      "domain": "tuvu.bet404.game",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "tvcp.behtarin-site-shartbandi-football.bet": {
+      "domain": "tvcp.behtarin-site-shartbandi-football.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "twu-hwt.org": {
+      "domain": "twu-hwt.org",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "ufdrepkt.jadoou.autos": {
+      "domain": "ufdrepkt.jadoou.autos",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "un1rw11q4u.com": {
+      "domain": "un1rw11q4u.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "uni.site.je": {
+      "domain": "uni.site.je",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "uonh.bahsegel90.com": {
+      "domain": "uonh.bahsegel90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "upaicdn.xinmei365.com": {
+      "domain": "upaicdn.xinmei365.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "upchemicals.co.in": {
+      "domain": "upchemicals.co.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "update.cg100iii.com": {
+      "domain": "update.cg100iii.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "uwrt8xqz.jadoou.cfd": {
+      "domain": "uwrt8xqz.jadoou.cfd",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "uyxg.behtarin-site-shartbandi-football.bet": {
+      "domain": "uyxg.behtarin-site-shartbandi-football.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "uzmapubv.behtarin-site-shartbandi-football.com": {
+      "domain": "uzmapubv.behtarin-site-shartbandi-football.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vefzvud7.jadoou.bond": {
+      "domain": "vefzvud7.jadoou.bond",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "versaclean.com.br": {
+      "domain": "versaclean.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "veryboys.com": {
+      "domain": "veryboys.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vgd.vg": {
+      "domain": "vgd.vg",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "videomeetgoogle.com": {
+      "domain": "videomeetgoogle.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vincentdemiero.com": {
+      "domain": "vincentdemiero.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "visam.info": {
+      "domain": "visam.info",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vizyonuniversitesi.com.tr": {
+      "domain": "vizyonuniversitesi.com.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vizyonuniversitesi.web.tr": {
+      "domain": "vizyonuniversitesi.web.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vlfnosj4.bazisangkaqazgeychidancepoli.com": {
+      "domain": "vlfnosj4.bazisangkaqazgeychidancepoli.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "voltix-net.biz": {
+      "domain": "voltix-net.biz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vrajras.com": {
+      "domain": "vrajras.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "vwhp.betpublic.casino": {
+      "domain": "vwhp.betpublic.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "we.aibotnet.su": {
+      "domain": "we.aibotnet.su",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "webcstore.pw": {
+      "domain": "webcstore.pw",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "website.mypetapp.co.za": {
+      "domain": "website.mypetapp.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "widexenmexico.com.mx": {
+      "domain": "widexenmexico.com.mx",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "windomstatetheater.com": {
+      "domain": "windomstatetheater.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "wittenhorst.eu": {
+      "domain": "wittenhorst.eu",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "wntzwdju.betpublic.casino": {
+      "domain": "wntzwdju.betpublic.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "wrryvujx.zaribbala.bet": {
+      "domain": "wrryvujx.zaribbala.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.226Z"
+    },
+    "wubbueiu.betpublic.casino": {
+      "domain": "wubbueiu.betpublic.casino",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.ardguisser.com": {
+      "domain": "www.ardguisser.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.astenterprises.com.pk": {
+      "domain": "www.astenterprises.com.pk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.automobile-bk.de": {
+      "domain": "www.automobile-bk.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.backupallfresh2030.com": {
+      "domain": "www.backupallfresh2030.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.benshamcentre.co.uk": {
+      "domain": "www.benshamcentre.co.uk",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.blackhattoolz.com": {
+      "domain": "www.blackhattoolz.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.bratusferramentas.grupomoltz.com.br": {
+      "domain": "www.bratusferramentas.grupomoltz.com.br",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.chenwangqiao.com": {
+      "domain": "www.chenwangqiao.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.controliumbt.com": {
+      "domain": "www.controliumbt.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.crazywickedaddiction.com": {
+      "domain": "www.crazywickedaddiction.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.cutting-edge.in": {
+      "domain": "www.cutting-edge.in",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.drgenov.com": {
+      "domain": "www.drgenov.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.first-security-verden.de": {
+      "domain": "www.first-security-verden.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.hostingcloud.science": {
+      "domain": "www.hostingcloud.science",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.hseda.com": {
+      "domain": "www.hseda.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.intelligradeeducation.vicentecisnerospub.com": {
+      "domain": "www.intelligradeeducation.vicentecisnerospub.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.jozefinskiatelje.si": {
+      "domain": "www.jozefinskiatelje.si",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.kenwillzltd.com": {
+      "domain": "www.kenwillzltd.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.konsor.ru": {
+      "domain": "www.konsor.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.medises.co.kr": {
+      "domain": "www.medises.co.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.mobimpex.ro": {
+      "domain": "www.mobimpex.ro",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.myvcart.com": {
+      "domain": "www.myvcart.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.namuvpn.com": {
+      "domain": "www.namuvpn.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.nccommunication.be": {
+      "domain": "www.nccommunication.be",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.newkey.co.kr": {
+      "domain": "www.newkey.co.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.notbak.com": {
+      "domain": "www.notbak.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.ojang.pe.kr": {
+      "domain": "www.ojang.pe.kr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.okhan.net": {
+      "domain": "www.okhan.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.rbcfort.com": {
+      "domain": "www.rbcfort.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.reifenquick.de": {
+      "domain": "www.reifenquick.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.saf-oil.ru": {
+      "domain": "www.saf-oil.ru",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.salonmarketing.ca": {
+      "domain": "www.salonmarketing.ca",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.sgeseducation.com": {
+      "domain": "www.sgeseducation.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.silver-hubdachwohnwagen.de": {
+      "domain": "www.silver-hubdachwohnwagen.de",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.ss-01.com": {
+      "domain": "www.ss-01.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.starcountry.net": {
+      "domain": "www.starcountry.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.steamrub.com": {
+      "domain": "www.steamrub.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.support-data.com": {
+      "domain": "www.support-data.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.tdejb.com": {
+      "domain": "www.tdejb.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.tecunonline.com": {
+      "domain": "www.tecunonline.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.test.peperoncinochepassione.it": {
+      "domain": "www.test.peperoncinochepassione.it",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.vuelaviajero.com": {
+      "domain": "www.vuelaviajero.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.website.mypetapp.co.za": {
+      "domain": "www.website.mypetapp.co.za",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.xn--on3b15m2lco2u.com": {
+      "domain": "www.xn--on3b15m2lco2u.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.zamilgroups.com": {
+      "domain": "www.zamilgroups.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "www.zhikey.com": {
+      "domain": "www.zhikey.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xb7ea3kq.betturkey.bet": {
+      "domain": "xb7ea3kq.betturkey.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xbvj.bahigo90bet.com": {
+      "domain": "xbvj.bahigo90bet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xcfumaos.betebet.poker": {
+      "domain": "xcfumaos.betebet.poker",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xenon.studio": {
+      "domain": "xenon.studio",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xmgonqda.jadoobet.xyz": {
+      "domain": "xmgonqda.jadoobet.xyz",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xn--yh4bx88a.com": {
+      "domain": "xn--yh4bx88a.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xshop.com.tr": {
+      "domain": "xshop.com.tr",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xuezha.net": {
+      "domain": "xuezha.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xuqbplvg.site-shartbandi-khareji.com": {
+      "domain": "xuqbplvg.site-shartbandi-khareji.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xxaz.jadoou.beauty": {
+      "domain": "xxaz.jadoou.beauty",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "xywz.betraca.bet": {
+      "domain": "xywz.betraca.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "yfekdkqg.jadoobet.forum": {
+      "domain": "yfekdkqg.jadoobet.forum",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "youtransfer.net": {
+      "domain": "youtransfer.net",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zamilgroups.com": {
+      "domain": "zamilgroups.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zbplgmhe.bet90forward.win": {
+      "domain": "zbplgmhe.bet90forward.win",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zbrz.bahigo90bet.com": {
+      "domain": "zbrz.bahigo90bet.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zcnevugr.betewin.poker": {
+      "domain": "zcnevugr.betewin.poker",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zduyoblb.betropol.bet": {
+      "domain": "zduyoblb.betropol.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zenglobalenerji.com": {
+      "domain": "zenglobalenerji.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zfs6aubs.betropol.bet": {
+      "domain": "zfs6aubs.betropol.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zh3l5x4j.betstrong.bet": {
+      "domain": "zh3l5x4j.betstrong.bet",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zhigao5191.com": {
+      "domain": "zhigao5191.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zs3z44wh.bettilt90.com": {
+      "domain": "zs3z44wh.bettilt90.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    },
+    "zycdjz.com": {
+      "domain": "zycdjz.com",
+      "source": "URLhaus",
+      "threatType": "Malware Distribution",
+      "riskLevel": "Ultra High",
+      "timestamp": "2026-07-13T08:44:42.227Z"
+    }
+  }
+}
