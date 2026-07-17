@@ -71,7 +71,7 @@ Follow these steps to build and install PrivacyLens locally on your machine.
 1. **Content Script (`content.js`)**: Monitors page-level behavior like form interactions, canvas fingerprinting attempts, and API permission queries (`navigator.permissions`).
 2. **Background Worker (`background.js`)**: Uses `chrome.webRequest` to intercept and analyze all network traffic in real-time, matching it against the compiled tracker databases. It stores this state in memory and persists to `chrome.storage.session` for MV3 lifecycle resilience.
 3. **Block Engine (`blockEngine.js`)**: Translates user blocking preferences into dynamic `declarativeNetRequest` rules, stopping network requests before they even hit the browser engine.
-4. **Popup UI (`App.jsx`)**: Connects to the background worker to fetch telemetry data, rendering the live dashboard.
+4. **Popup UI (`App.jsx`)**: Connects 
 
 ## 🤝 Contributing
 
